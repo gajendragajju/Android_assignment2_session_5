@@ -1,4 +1,4 @@
-package com.acadgild.android.menuexample;
+package com.gajju.android.menuexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
